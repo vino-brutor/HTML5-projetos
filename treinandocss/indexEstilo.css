@@ -1,0 +1,22 @@
+.principal{
+    text-align: center;
+    font: arial;
+}
+body{
+    width: 99%;
+    height: 100%;
+    
+}
+#titulo{
+    font: bold 50px arial;
+    text-decoration-line: underline;
+    color: aqua;
+    background-color: blue;
+}
+#subtitulo{
+    font: 25px arial;
+    color: rgb(252, 6, 170);
+    height: 75%;
+    background-color: black;
+    width: 100%;
+}
